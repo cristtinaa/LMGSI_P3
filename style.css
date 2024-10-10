@@ -1,0 +1,54 @@
+
+h1{
+    text-align: center;
+    color: rgb(90, 248, 227);
+    font-weight: bold;
+}
+caption{
+    text-align: center;
+    color: rgb(192, 74, 238);
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+th{
+    background-color: rgb(252, 75, 184);
+    font-size: large;
+    width: 150px;
+    text-align: center;
+    font-weight: bolder;
+}
+td{
+    text-align: center;
+}
+.ped{
+    background-color: blue;
+}
+.bbdd{
+    background-color: pink;
+}
+.ldm{
+    background-color: yellow;
+}
+.ss{
+    background-color: red;
+}
+.diw{
+    background-color: aqua;
+}
+.fol{
+    background-color: blueviolet;
+}
+.ang{
+    background-color: orange;
+}
+.tut{
+    background-color: rgb(206, 17, 80);
+}
+.hora{
+    background-color: burlywood;
+}
